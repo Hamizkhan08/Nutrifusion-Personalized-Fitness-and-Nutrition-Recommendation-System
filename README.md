@@ -40,7 +40,7 @@ Ensure you have the following installed:
    python app.py
    ```
 6. Open `http://127.0.0.1:5000/` in your browser.
-7. 
+   
 ## Usage
 1. Register or log in.
 2. Enter required inputs (height, weight, workout type, muscle difficulty level, etc.).
