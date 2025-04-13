@@ -3,6 +3,10 @@
 ## Overview
 Nutrifusion is a personalized fitness and nutrition recommendation system designed to provide users with customized workout and diet plans based on their inputs. The system leverages machine learning (Random Forest) to generate optimal fitness and nutrition suggestions tailored to the user's needs.
 
+![final](https://github.com/user-attachments/assets/2a119a7f-46ba-4b6a-b3ee-7442ef3219ba)
+![formm](https://github.com/user-attachments/assets/4bc040b2-a2f0-4e00-9632-d7983da768df)
+
+
 ## Features
 - **User Authentication**: Login and Registration using MySQL (phpMyAdmin via XAMPP)
 - **Personalized Recommendations**:
